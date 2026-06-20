@@ -1,0 +1,116 @@
+[
+  {
+    "label": "word",
+    "vocab_size": 647,
+    "num_tokens": 2300,
+    "num_params": 121415,
+    "train_time_sec": 3.48,
+    "final_train_loss": 1.6353,
+    "final_val_loss": 7.4492,
+    "perplexity": 1718.46,
+    "generated_sample": "Kecerdasan buatan untuk membangun versi sederhana . Pendekatan ini didirikan dengan cara menggabungkan pasangan pelatihan yang jelas , bukan hanya terdiri dari model membawa peningkatan signifikan . Arsitektur transformer diproses , namun tetap mempertahankan komponen utama mereka melalui sistem yang bermakna secara semantik , singkatan , dan mudah diinterpretasikan respons cepat akan memiliki posisi yang tidak dikenal ini menggunakan algoritma populer untuk",
+    "history": [
+      {
+        "iter": 0,
+        "train_loss": 6.672527313232422,
+        "val_loss": 6.5878777503967285
+      },
+      {
+        "iter": 50,
+        "train_loss": 4.405948638916016,
+        "val_loss": 6.023951053619385
+      },
+      {
+        "iter": 100,
+        "train_loss": 2.876908302307129,
+        "val_loss": 6.0347065925598145
+      },
+      {
+        "iter": 150,
+        "train_loss": 2.121654748916626,
+        "val_loss": 6.862552165985107
+      },
+      {
+        "iter": 200,
+        "train_loss": 1.6352863311767578,
+        "val_loss": 7.449183940887451
+      }
+    ]
+  },
+  {
+    "label": "char",
+    "vocab_size": 49,
+    "num_tokens": 16017,
+    "num_params": 63409,
+    "train_time_sec": 3.39,
+    "final_train_loss": 2.1498,
+    "final_val_loss": 2.236,
+    "perplexity": 9.36,
+    "generated_sample": "Kecerdasan buatangakakan dig celakahibiksani an bangalatura a boda memukamemo",
+    "history": [
+      {
+        "iter": 0,
+        "train_loss": 4.1083221435546875,
+        "val_loss": 3.9193832874298096
+      },
+      {
+        "iter": 50,
+        "train_loss": 2.3393452167510986,
+        "val_loss": 2.574092149734497
+      },
+      {
+        "iter": 100,
+        "train_loss": 2.287977695465088,
+        "val_loss": 2.218299627304077
+      },
+      {
+        "iter": 150,
+        "train_loss": 2.2603542804718018,
+        "val_loss": 2.160595417022705
+      },
+      {
+        "iter": 200,
+        "train_loss": 2.149787664413452,
+        "val_loss": 2.2359790802001953
+      }
+    ]
+  },
+  {
+    "label": "subword",
+    "vocab_size": 400,
+    "num_tokens": 4940,
+    "num_params": 97456,
+    "train_time_sec": 3.58,
+    "final_train_loss": 2.9388,
+    "final_val_loss": 4.826,
+    "perplexity": 124.71,
+    "generated_sample": "Kecerdasan buatan berbagai teknolabulian antaraus dihasilkan cukk, bian bisu, dan kata, tim TechNova Solutions juga bersua. Pendekatan kedikat adalah kemampuan menambil. Pendekatan ini dianggapusahi lay",
+    "history": [
+      {
+        "iter": 0,
+        "train_loss": 6.149698257446289,
+        "val_loss": 6.11993408203125
+      },
+      {
+        "iter": 50,
+        "train_loss": 4.797984600067139,
+        "val_loss": 5.294500827789307
+      },
+      {
+        "iter": 100,
+        "train_loss": 3.717242956161499,
+        "val_loss": 4.909023761749268
+      },
+      {
+        "iter": 150,
+        "train_loss": 3.097669839859009,
+        "val_loss": 4.661567211151123
+      },
+      {
+        "iter": 200,
+        "train_loss": 2.938781499862671,
+        "val_loss": 4.825994968414307
+      }
+    ]
+  }
+]
