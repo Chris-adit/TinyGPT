@@ -1,2 +1,0 @@
-# TinyGPT
-tinygpt-corpus-technova
